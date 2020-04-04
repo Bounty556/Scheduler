@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $("#current-day").text(moment().format('MMMM D YYYY'));
+    $("#current-day").text(moment().format('dddd, MMMM D'));
 
     $("#time-slots").empty();
 
@@ -17,7 +17,7 @@ function createTimeSlots() {
 
     // Start at 9 am
     startTime.hour(9);
-     
+
     // Go until 5 pm
     while (startTime.hour() <= 17) {
         let divRow = $("<div>").attr("class", "row");
