@@ -12,10 +12,10 @@ You can input text into each hour and use the button on the right to save that e
 
 ## Credits
 
-[Bootstrap](https://getbootstrap.com/) 
-[Google Fonts](https://fonts.google.com/) 
-[Font Awesome](https://fontawesome.com/) 
-[Moment JS](https://momentjs.com/) 
+-[Bootstrap](https://getbootstrap.com/) 
+-[Google Fonts](https://fonts.google.com/) 
+-[Font Awesome](https://fontawesome.com/) 
+-[Moment JS](https://momentjs.com/) 
 
 ## License
 
